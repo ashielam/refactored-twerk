@@ -1,0 +1,18 @@
+html {
+    font-family: monospace;
+}
+
+body {
+    background-color: #f2c3cb;
+    border: 2px solid black;
+    text-align: center;
+}
+.jacket {
+        border-radius: 50%;
+        height: 500px;
+        width: 500px;
+}
+h1 {
+    text-shadow: 2px 2px 5px black;
+    
+}

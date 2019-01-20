@@ -1,0 +1,14 @@
+html {
+    font-family: monospace;
+}
+body {
+    background-color:#97ceff;
+    text-align: center;
+    font-size:25px;
+     border: 2px solid black;
+}
+
+.clothing {
+    font-size:20px;
+}
+

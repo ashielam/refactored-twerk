@@ -1,0 +1,29 @@
+html {
+    font-family: monospace;
+}
+
+body {
+    text-align: center;
+     
+
+}
+
+h1 {
+    font-size:55px;
+}
+
+h2 {
+    font-size:25px;
+}
+
+tr.amfab td a {
+    padding:14px;
+    text-align: center;
+    display:block;
+    text-decoration:none;
+
+}
+
+tr.amfab td a:hover {
+    background-color: #5899d3
+}

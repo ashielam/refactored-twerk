@@ -1,0 +1,22 @@
+html {
+    font-family: monospace;
+}
+body {
+    background-color:#8d8de6;
+    text-align: center;
+    border: 2px solid black;
+    font-size:25px
+        
+}
+        
+.hoodie {
+        border-radius: 50%;
+        height: 500px;
+        width: 500px;
+}
+    
+}
+
+h2 {
+    font-size:25px;
+}

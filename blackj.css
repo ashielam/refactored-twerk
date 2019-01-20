@@ -1,0 +1,16 @@
+html {
+    font-family: monospace;
+}
+body {
+    background-color:#8d8de6;
+    text-align: center;
+    border: 2px solid black;
+    font-size:25px;
+    
+}
+
+.jeans {
+    border-radius: 45%;
+    width: 500px;
+    height: 500px;
+}

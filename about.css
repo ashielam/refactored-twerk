@@ -1,0 +1,14 @@
+html {
+    font-family: monospace;
+}
+
+body {
+    background-color: #f2c3cb;
+    border: 2px solid black;
+    text-align: center;
+}
+
+h1 {
+    text-shadow: 2px 2px 5px black;
+    
+}
